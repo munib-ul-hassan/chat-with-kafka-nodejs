@@ -1,0 +1,4 @@
+github: https://github.com/lemoncode21/nodejs-kafka/blob/master/config.js
+
+Apache Kafka Node js Producer and Consumer: https://www.youtube.com/watch?v=3pxr45ufnRc
+install apachi kafka: https://www.youtube.com/watch?v=BwYFuhVhshI
